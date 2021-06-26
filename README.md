@@ -5,8 +5,16 @@
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
+
+
 <h3 align="left">🌸 languages and tools i've worked with</h3>
 <p align="left">
+    <a href="https://www.scala-lang.org" target="_blank"> <img src="https://github.com/AnantMishra30/portfolio/blob/main/data/scala.png?raw=true" alt="scala" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"  alt="js" width="40" height="40" /></a>
+    <a href="https://www.w3schools.com/java/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"  alt="java" width="40" height="40" /></a>
+    <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"  alt="python" width="40" height="40" /></a>
+    
+    
     <a href="https://azure.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
