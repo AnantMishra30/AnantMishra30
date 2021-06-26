@@ -13,6 +13,21 @@
     <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"  alt="js" width="40" height="40" /></a>
     <a href="https://www.w3schools.com/java/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"  alt="java" width="40" height="40" /></a>
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"  alt="python" width="40" height="40" /></a>
+    <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"  alt="bootstrap" width="40" height="40" /></a>
+    <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"  alt="html5" width="40" height="40" /></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"  alt="css3" width="40" height="40" /></a>
+    <a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://img.icons8.com/color/48/000000/azure-1.png"  alt="azure" width="40" height="40" /></a>
+    <a href="https://www.docker.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/docker.png"  alt="docker" width="40" height="40" /></a>
+    <a href="https://www.jenkins.io" target="_blank"><img src="https://img.icons8.com/color/48/000000/jenkins.png"  alt="docker" width="40" height="40" /></a>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
+    <a href="https://www.microsoft.com/en-in/sql-server" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="mssql" width="40" height="40" /> </a>
+    <a href="https://visualstudio.microsoft.com/vs/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png" alt="vs2019" width="40" height="40" /> </a>
+    <a href="https://www.openshift.com" target="_blank"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/openshift.svg" alt="openshift" width="40" height="40" /> </a>
+    <a href="https://spark.apache.org" target="_blank"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/spark.svg" alt="spark" width="40" height="40" /> </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/csharp-1.svg" alt="csharp" width="40" height="40" /> </a>
+    <a href="https://www.linux.org" target="_blank"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/linux-tux-colour.svg" alt="linux" width="40" height="40" /> </a>
+    <a href="https://azure.microsoft.com/en-in/services/data-factory/" target="_blank"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-icons/Data-Factory.svg" alt="adf" width="40" height="40" /> </a>
+    <a href="https://rasa.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/21214473?s=200&v=4" alt="rasa" width="40" height="40" /> </a>
     
     
     <a href="https://azure.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
