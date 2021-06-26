@@ -9,6 +9,7 @@
 
 <h3 align="left">🌸 languages and tools i've worked with</h3>
 <p align="left">
+    <a href="https://databricks.com" target="_blank"> <img src="https://raw.githubusercontent.com/AnantMishra30/portfolio/main/data/databricks-icon.svg" alt="db" width="40" height="40" /> </a>
     <a href="https://www.scala-lang.org" target="_blank"> <img src="https://github.com/AnantMishra30/portfolio/blob/main/data/scala.png?raw=true" alt="scala" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"  alt="js" width="40" height="40" /></a>
     <a href="https://www.w3schools.com/java/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"  alt="java" width="40" height="40" /></a>
@@ -28,6 +29,9 @@
     <a href="https://www.linux.org" target="_blank"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/linux-tux-colour.svg" alt="linux" width="40" height="40" /> </a>
     <a href="https://azure.microsoft.com/en-in/services/data-factory/" target="_blank"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-icons/Data-Factory.svg" alt="adf" width="40" height="40" /> </a>
     <a href="https://rasa.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/21214473?s=200&v=4" alt="rasa" width="40" height="40" /> </a>
+    <a href="https://hadoop.apache.org" target="_blank"> <img src="https://raw.githubusercontent.com/AnantMishra30/portfolio/main/data/apache-hadoop.svg" alt="hadoop" width="40" height="40" /> </a>
+    <a href="https://hive.apache.org" target="_blank"> <img src="https://raw.githubusercontent.com/AnantMishra30/portfolio/main/data/apache-hive-icon.svg" alt="hive" width="40" height="40" /> </a>
+
     
     
     <a href="https://azure.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
