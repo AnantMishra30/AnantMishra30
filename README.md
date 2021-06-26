@@ -33,6 +33,8 @@
     <a href="https://hive.apache.org" target="_blank"> <img src="https://raw.githubusercontent.com/AnantMishra30/portfolio/main/data/apache-hive-icon.svg" alt="hive" width="40" height="40" /> </a>
     <a href="https://mapr.com/download/" target="_blank"> <img src="https://raw.githubusercontent.com/AnantMishra30/portfolio/main/data/mapr.svg" alt="mapr" width="40" height="40" /> </a>
     <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"> <img src="https://raw.githubusercontent.com/AnantMishra30/portfolio/main/data/microsoft-net-icon.svg" alt=".net" width="40" height="40" /> </a>
+    <a href="https://www.snowflake.com" target="_blank"> <img src="https://raw.githubusercontent.com/AnantMishra30/portfolio/main/data/snowflake.svg" alt="snowflake" width="80" height="40" /> </a>
+    <a href="https://airflow.apache.org" target="_blank"> <img src="https://raw.githubusercontent.com/AnantMishra30/portfolio/main/data/wordmark_1.svg" alt="airflow" width="80" height="40" /> </a>
 
     
     
