@@ -1,10 +1,5 @@
-### 🌚 hello, anant here
-<!---
-![gh-readme](https://user-images.githubusercontent.com/29779226/117459418-011c7080-af69-11eb-9b9f-7ea294387259.png)
---->
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-
+![gh-readme](https://github.com/AnantMishra30/AnantMishra30/blob/main/data/Hello%2C%20my%20name%20is%20Anant.%20Nice%20to%20meet%20you..png)
 
 
 <h3 align="left">🍁 languages and tools i've worked with</h3>
