@@ -1,8 +1,8 @@
+<h1 align="center">Hi 🍁, I'm Anant Mishra</h1>
+<h3 align="center">Changing the world one byte at a time!</h3>
 
-![gh-readme](https://github.com/AnantMishra30/AnantMishra30/blob/main/data/Hello%2C%20my%20name%20is%20Anant.%20Nice%20to%20meet%20you..png)
 
-
-<h3 align="left">🍁 languages and tools i've worked with</h3>
+<h3 align="left">🛠 languages and tools i've worked with</h3>
 <p align="left">
     <a href="https://databricks.com" target="_blank"> <img src="https://raw.githubusercontent.com/AnantMishra30/portfolio/main/data/databricks.svg" alt="db" width="100" height="40" /> </a>
     <a href="https://www.scala-lang.org" target="_blank"> <img src="https://github.com/AnantMishra30/portfolio/blob/main/data/scala.png?raw=true" alt="scala" width="40" height="40" /> </a>
@@ -33,7 +33,7 @@
 
 </p>
 
-<h4>🥷🏻 connect with me</h4>
+<h4>🤝 connect with me</h4>
 <a href="https://www.linkedin.com/in/anant-mishra1996/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/AnantMishra30/portfolio/main/data/linkedin-icon.svg" width="40px" height="40px" title="source: imgur.com" /></a> &nbsp;
 
 ![](https://komarev.com/ghpvc/?username=anantmishra30&style=plastic&label=Visitor+Alert) <br>
