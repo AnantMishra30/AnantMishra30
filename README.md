@@ -32,7 +32,9 @@
     <a href="https://airflow.apache.org" target="_blank"> <img src="https://raw.githubusercontent.com/AnantMishra30/portfolio/main/data/wordmark_1.svg" alt="airflow" width="80" height="40" /> </a>
     <a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="airflow" width="40" height="40" /> </a>
     <a href="https://github.com/AnantMishra30" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="airflow" width="40" height="40" /> </a>
+    <a href="https://github.com/AnantMishra30" target="_blank"> <img src="https://raw.githubusercontent.com/AnantMishra30/AnantMishra30/main/data/terraform-icon.svg" alt="terraform" width="40" height="40" /> </a>
 
+    
 </p>
 
 <h4>🤝 connect with me</h4>
