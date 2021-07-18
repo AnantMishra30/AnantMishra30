@@ -32,12 +32,13 @@
     <a href="https://airflow.apache.org" target="_blank"> <img src="https://raw.githubusercontent.com/AnantMishra30/portfolio/main/data/wordmark_1.svg" alt="airflow" width="80" height="40" /> </a>
     <a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="airflow" width="40" height="40" /> </a>
     <a href="https://github.com/AnantMishra30" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="airflow" width="40" height="40" /> </a>
-    <a href="https://github.com/AnantMishra30" target="_blank"> <img src="https://raw.githubusercontent.com/AnantMishra30/AnantMishra30/main/data/terraform-icon.svg" alt="terraform" width="40" height="40" /> </a>
+    
 
     
 </p>
 
 <h4>🤝 connect with me</h4>
 <a href="https://www.linkedin.com/in/anant-mishra1996/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/AnantMishra30/portfolio/main/data/linkedin-icon.svg" width="40px" height="40px" title="source: imgur.com" /></a> &nbsp;
+<a href="https://medium.com/@anant30" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png" alt="medium" width="40" height="40" /> </a>
 
 ![](https://komarev.com/ghpvc/?username=anantmishra30&style=plastic&label=Visitor+Alert) <br>
